@@ -1,3 +1,6 @@
+#| A critical aspect of a programming language is the means it provides 
+for using names to refer to computational objects.|#
+
 #|A critical aspect of a programming language is the means it provides for using names to refer 
 to computational objects. We say that the name identifies a variable whose value is the object. |#
 
